@@ -21,7 +21,7 @@ Use this section to describe your final project and perhaps any links to relevan
 
 [I'm an inline-style link](https://www.google.com)
 
-This project is 
+This project is an attempt to generate location-based artistic photos along with random quotes according to user input. I will use React to pull data from API to get the photos and quotes.
 
 
 ## Wireframes
