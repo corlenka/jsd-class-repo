@@ -20,7 +20,6 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
 
-[I'm an inline-style link](https://www.google.com)
 
 This project is an attempt to generate location-based artistic photos along with random quotes according to user input. I will use React to pull data from API to get the photos and quotes.
 
@@ -43,8 +42,11 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 #### MVP 
 
 - Find and use external api 
+
 [Art photo index](http://www.artphotoindex.com/api/)
+
 [35 Image APIs](https://konghq.com/blog/list-of-35-image-apis-for-fun-and-profit/)
+
 [Art API] (https://www.programmableweb.com/category/art/api)
 
 
