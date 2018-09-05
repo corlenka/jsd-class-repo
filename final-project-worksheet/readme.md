@@ -31,7 +31,7 @@ The app will be useful for creating posters/commercial images/generating ideas, 
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
 
-https://res.cloudinary.com/dgka4ilmf/image/upload/v1536184494/wireframe-yzhang.pdf
+https://res.cloudinary.com/dgka4ilmf/image/upload/v1536184689/wireframe-yzhang.pdf
 
 ## Priority Matrix
 
