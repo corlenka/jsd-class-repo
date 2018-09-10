@@ -81,7 +81,11 @@ Helper functions should be generic enought that they can be reused in other appl
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project. 
-
+Upload image interface: https://codepen.io/hartzis/pen/VvNGZP
+Image presentation1: https://codepen.io/atelierbram/pen/RgKLZK
+Image presentation2: https://codepen.io/giana/pen/QgGaNp
+Combination: https://codepen.io/jyloo/pen/GOPVaO
+For download: 
 ## Code Snippet
 
 Use this section to include a brief code snippet of functionality that you are proud of an a brief description  
